@@ -13,12 +13,6 @@ const styleLink = `
         overflow: hidden;
     }
 
-    #dvd-box {
-        background-color: rgb(0, 0, 0);
-        height: 400px;
-        width: 600px;
-    }
-
     svg {
         position: absolute;
         width: 200px;
