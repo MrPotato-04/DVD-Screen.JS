@@ -7,4 +7,5 @@ Link this js file to create a simple dvd screensaver.
 3.  specify width and height
 ##### Preview
 ![image](https://user-images.githubusercontent.com/80412415/161012339-5fb4e1f0-e612-4ad4-a9c4-930f1ee7c79c.png) 
+![image](https://user-images.githubusercontent.com/80412415/161012598-f8518b3d-de9e-4cdb-b422-da71e6d9662e.png)
 
