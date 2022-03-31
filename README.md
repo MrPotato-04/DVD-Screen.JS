@@ -1,5 +1,6 @@
 # DVD-Screen.JS
-Link this js file to create a simple dvd screensaver.
+<a>I was bored so i made this.</a><br>
+<a>Link this js file to create a simple dvd screensaver.</a>
 #### File link: https://mrpotato-04.nl/public-js-modules/dvd-screen.js
 #### Usage:
 1.  link js script.
