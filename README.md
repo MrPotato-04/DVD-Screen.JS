@@ -7,7 +7,7 @@ Link [this js file](https://mrpotato-04.nl/public-js-modules/dvd-screen.js) to c
 <li>link js script </li>
 <li><p>create div with id dvd-box</p></li>    
 </li>
-  <li><p>specify width and height</p></li>
+  <li><p>specify width and height and set background color to your liking</p></li>
 </ol>
 </div>
 
