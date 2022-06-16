@@ -11,7 +11,7 @@ Link [this js file](https://mrpotato-04.nl/public-js-modules/dvd-screen.js) to c
 </ol>
 </div>
 
-### Preview
-![image](https://user-images.githubusercontent.com/80412415/161012339-5fb4e1f0-e612-4ad4-a9c4-930f1ee7c79c.png) 
+### [Preview](https://mrpotato-04.github.io/DVD-Screen.JS/index.html)
+
 
 
